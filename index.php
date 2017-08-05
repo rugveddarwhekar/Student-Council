@@ -5,7 +5,7 @@
 		<meta http-equiv="Content-Type" content="text/html"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
 
-		<title>Log In</title>
+		<title>Log In Or Sign In</title>
 
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
 		<link rel="stylesheet" href="Assets/css/base.css">
